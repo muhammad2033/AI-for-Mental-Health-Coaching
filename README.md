@@ -1,5 +1,5 @@
 # MindMend AI - Emotion-Aware Mental Health Coach
-
+#### Website's URL "https://bespoke-bavarois-2c718b.netlify.app/"
 ## Overview
 
 MindMend AI is an intelligent therapeutic chatbot powered by emotion-aware AI, designed to act as a digital mental health coach. It interprets user mood, tone, language patterns, and journaling behavior to adapt its responses and therapy strategies in real time.
